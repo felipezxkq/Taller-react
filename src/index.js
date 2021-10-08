@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import MiComponente from './vistas/formulario/MiComponente';
+import Taller from './vistas/formulario/Taller';
 
 ReactDOM.render(
   <React.StrictMode>
